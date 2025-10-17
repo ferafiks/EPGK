@@ -1,4 +1,4 @@
-# Zasoby na EPKG
+# Zasoby na EPGK
 
 ## Instalacja Pythona
 
