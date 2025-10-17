@@ -14,4 +14,4 @@ Wąż z upela nie działa z 2 powodów:
 1. Plik `highscore.txt` nie istnieje
 2. Inty (liczby całe) zamieniają się na floaty (liczby dziesiętne) przy dzieleniu.
 
-Ta wersja nie wczytuje pliku `highscore.txt` jeżeli nie istnieje oraz zamieniła wszystkie znaki `/` przy dzieleniu liczb całkowitych na `//` (`/` zawsze zwraca liczbe dziesiętną, a `//` liczbę całkowitą nie zależnie od tego jakiego typu są liczby które się dzieli).
+Ta wersja nie wczytuje pliku `highscore.txt` jeżeli nie istnieje, oraz ma zamienione wszystkie znaki `/` przy dzieleniu liczb całkowitych na `//` (`/` zawsze zwraca liczbe dziesiętną, a `//` liczbę całkowitą nie zależnie od tego jakiego typu są liczby które się dzieli).

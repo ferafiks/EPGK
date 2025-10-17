@@ -3,7 +3,7 @@
 Proste okno który wyświetla losowy obrazek kostki do gry po naciśnięciu guzika.
 
 ## WAŻNE
-Uruchamiając skrypt z terminala, upernij się że znajdujesz się w folderze z skryptem. W innym przypadku otrzymasz błąd, bo obrazki kości muszą być w tym samym folderze w którym się znajdujesz.
+Uruchamiając skrypt z terminala, upewnij się że znajdujesz się w folderze z skryptem. W innym przypadku otrzymasz błąd, bo obrazki kości muszą być w tym samym folderze w którym się znajdujesz.
 
 ## Setup
 

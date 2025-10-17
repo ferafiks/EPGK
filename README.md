@@ -18,13 +18,13 @@ Teoretycznie można je edytować nawet w notatniku, ale o wiele wygodniej jest k
 
 Dla Linuxa: wyszukajcie nazwe paczki dla waszej dystrybucji i zainstalujcie przez terminal. VSCode jest też dostępny nieoficjalnie jako flatpak, ale chyba lepiej jest używać natywnej wersji.
 
-Po zainstalowaniu, można wejść w `File/Open Folder` i otworzyć folder zawierający skrypty. Polcam stworzenie sobie folderu do zajęć i trzymania w nim wszystkie rzeczy z labów w osobnych podfolderach.
+Po zainstalowaniu, można wejść w `File/Open Folder` i otworzyć folder zawierający skrypty. Polecam stworzenie sobie folderu do zajęć i trzymania w nim wszystkich rzeczy z labów w osobnych podfolderach.
 
 Po otworzeniu skryptu, powinien wyświetlić się komunikat w prawym dolnym rogu, aby zainstalować wtyczkę do Pythona. Kliknij go i zainstaluj.
 
 ### Uruchamianie skryptów w Visual Studio Code
 
-W prawym górnym rogu jest ikonka strzałeczki, która uruchomi wasz otwarty skrypt. Za pierwszym razem trzeba się przeklikać przez opcje aż dojdzie się do opcji by odpalić otwarty skrypt.
+W prawym górnym rogu jest ikonka strzałeczki, która uruchomi twój otwarty skrypt. Za pierwszym razem trzeba się przeklikać przez menu aż dojdzie się do opcji by odpalić otwarty skrypt.
 
 ---
 
